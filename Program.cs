@@ -18,7 +18,7 @@ for (double c=0.5 ; c<=10.5 ; c++) {
      Console.WriteLine("loser");
  }
  */
-
+/*
  int jul = 21816000;
  double pris = 599.95;
  int dag =24 * 60 * 60;
@@ -30,3 +30,47 @@ for (double c=0.5 ; c<=10.5 ; c++) {
  else {
  Console.WriteLine("gg_kidd");
  }
+ */
+
+ // exercises 6.5 holiday fix i morgen
+
+/*
+int Autumn_Holiday = 1;
+int Christmas_Holiday = 2;
+int Spring_Holiday = 3;
+int summer_Holiday = 4;
+
+{
+if (summer_Holiday == 5){
+    Console.WriteLine("July and August");
+}
+else {
+    Console.WriteLine("hard work");
+}
+if (Christmas_Holiday == 100){
+    Console.WriteLine("December");
+}
+else {
+    Console.Writeline("Hard work");
+}
+if (Spring_Holiday == 3) {
+    Console.WriteLine("April");
+}
+else{
+    Console.WriteLine("Hard work");
+}
+*/
+
+/*
+int i=1;
+while (i<=10){
+Console.WriteLine("Hello");
+i++;
+}
+*/
+
+int i=10;
+do {
+Console.WriteLine(i);
+while (i<=10);
+}
