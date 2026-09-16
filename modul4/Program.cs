@@ -13,7 +13,8 @@ for (int i = 1; i < nummer.Length; i++) {
 Console.WriteLine($"Stor: {stor}");
 Console.WriteLine($"index: {index}");
 */
-
+// exercise 7.15
+/*
 class person {
 public int age;
 public int højde;
@@ -30,3 +31,53 @@ class program
         Console.WriteLine("person f er " + f.vægt);
         }
 }
+*/
+
+// Exercise 7.3: Array Type
+// typen af Arrays, er declaret ved at putte typen af data for an eks. Int[] (integer Arrays)
+
+// Exercise 7.5: Size of Array Allocation
+// for at bestemme, hvor mange elementer der er. Gøres ved at sige hvilken slags Array det er, derefter skrive inde i []
+// skrives som int [] = new Int[10]
+
+// Exercise 7.7: Sudoku Puzzle
+// How would you represent a Sūdoku1 puzzle in C#? 
+// via. et 2D Array, og definere størelsen på den
+// How is this data structure laid out in memory?
+// Da, det er 2D Array, ligger det kompakt i hukommelsen
+
+/*
+int [] måned = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+int [] leap = [20, 30, 40, 50, 60, 70, 80, 90, 100, 110];
+
+int J = 1;
+
+
+
+if (J ==3){
+Console.WriteLine(måned[J]);
+}
+else{
+Console.WriteLine(leap[J]);
+}
+*/
+
+// Exercise 7.16: Direction
+/*
+enum vej {
+øst,
+west,
+north,
+south,
+}
+*/
+
+int [] cirkel = [1, 3, 5,];
+int D = 0;
+int E = 1;
+int R = 2;
+double P = 3.14;
+
+Console.WriteLine(cirkel[D]* cirkel[D] * P);
+Console.WriteLine(cirkel[E]* cirkel[E] * P);
+Console.WriteLine(cirkel[R] * cirkel[R] * P);
