@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\bin\Debug\net10.0\point_givende_aktivitet1.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\bin\Debug\net10.0\point_givende_aktivitet1.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\bin\Debug\net10.0\point_givende_aktivitet1.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\bin\Debug\net10.0\point_givende_aktivitet1.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\bin\Debug\net10.0\point_givende_aktivitet1.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\refint\point_givende_aktivitet1.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\point_givende_aktivitet1.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\point_givende_aktivitet1\obj\Debug\net10.0\ref\point_givende_aktivitet1.dll
