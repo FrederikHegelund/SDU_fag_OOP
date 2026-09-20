@@ -38,7 +38,7 @@ for (int i=0; i < biller.Length; i++)
     }
 }
 */
-
+/*
 int[] year = {12, 23, 44, 43};
 
 int max = year[0];
@@ -50,3 +50,21 @@ for (int i=0; i< year.Length; i++)
     max = year[i];
 }
 Console.Write(max);
+*/
+
+// nummer test
+/*
+int a = 12;
+int b = 33;
+double c = 4.44;
+
+if (c * b == 146.52)
+{
+    Console.WriteLine("TRUE");
+}
+
+    else 
+    {
+        Console.WriteLine(a);
+    }
+*/

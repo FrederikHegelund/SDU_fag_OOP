@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("point_givende_aktivitet1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5892d46f0b7d30b3fd12c63f6815541306daec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65bbe7a1083ff0de83e81884820afb1c3197c3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("point_givende_aktivitet1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("point_givende_aktivitet1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
