@@ -81,3 +81,17 @@ double P = 3.14;
 Console.WriteLine(cirkel[D]* cirkel[D] * P);
 Console.WriteLine(cirkel[E]* cirkel[E] * P);
 Console.WriteLine(cirkel[R] * cirkel[R] * P);
+
+// jeg har valgt at udfører denne opgave ved undersøge det største negative nummer i et Array, derefter ændre række følgende, som det ligger først i mit Array
+
+int [] numbers = {1, 2, 3, -4, 5, 6,};
+int i = numbers[3];
+
+for (i=0; i < numbers.Length ; i++)
+{
+    if (numbers[i] > numbers[0])
+    {
+        i = numbers[0];
+    }
+}
+Console.WriteLine("lageste negativ number is " + numbers[0]);

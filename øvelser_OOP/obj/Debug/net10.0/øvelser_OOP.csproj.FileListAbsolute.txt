@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\bin\Debug\net10.0\øvelser_OOP.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\bin\Debug\net10.0\øvelser_OOP.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\bin\Debug\net10.0\øvelser_OOP.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\bin\Debug\net10.0\øvelser_OOP.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\bin\Debug\net10.0\øvelser_OOP.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\refint\øvelser_OOP.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\øvelser_OOP.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\øvelser_OOP\obj\Debug\net10.0\ref\øvelser_OOP.dll
