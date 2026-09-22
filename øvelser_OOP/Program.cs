@@ -77,6 +77,8 @@ int result = Add(7 + 1, 4);
 Console.WriteLine(result);
 */
 // Exercise 8.3: Sūdoku Prettyprinter
+int start = 0;
+int end = 2;
 int[][] puzzle = {
 new int[] {7, 3, 6, 4, 5, 2, 9, 8, 1},
 new int[] {1, 9, 8, 6, 3, 7, 4, 5, 2},
