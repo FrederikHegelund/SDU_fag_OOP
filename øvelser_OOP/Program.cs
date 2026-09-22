@@ -54,6 +54,7 @@ int b = a + 1;
 // ja, hvis a var en int, ville den godt kunne compile
 
 //Exercise 7.6: Multiplication Table
+/*
 int size = 10;
 int[] tabel = new int[size];
 
@@ -65,3 +66,34 @@ Console.WriteLine(tabel[0]);
 Console.WriteLine(tabel[1]);
 Console.WriteLine(tabel[2]);
 Console.WriteLine(tabel[3]);
+*/
+// Exercises 8.4 Sum
+/*
+static int Add(int a, int b)
+{
+    return a + b;
+}
+int result = Add(7 + 1, 4);
+Console.WriteLine(result);
+*/
+// Exercise 8.3: Sūdoku Prettyprinter
+int[][] puzzle = {
+new int[] {7, 3, 6, 4, 5, 2, 9, 8, 1},
+new int[] {1, 9, 8, 6, 3, 7, 4, 5, 2},
+new int[] {4, 2, 5, 9, 8, 1, 3, 7, 6},
+new int[] {3, 6, 4, 5, 2, 8, 1, 9, 7},
+new int[] {9, 5, 2, 7, 1, 4, 6, 3, 8},
+new int[] {8, 1, 7, 3, 9, 6, 2, 4, 5},
+new int[] {2, 8, 9, 1, 7, 3, 5, 6, 4},
+new int[] {6, 7, 3, 2, 4, 5, 8, 1, 9},
+new int[] {5, 4, 1, 8, 6, 9, 7, 2, 3},
+};
+
+for (int row = 0 ; row < puzzle.Length ; row++)
+{
+    for (int col = 0 ; col <puzzle[row].Length ; col++)
+    {
+        Console.WriteLine(puzzle[row][col] + " ");
+        Console.WriteLine(" ");
+    }
+}
