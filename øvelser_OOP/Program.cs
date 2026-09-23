@@ -77,9 +77,9 @@ int result = Add(7 + 1, 4);
 Console.WriteLine(result);
 */
 // Exercise 8.3: Sūdoku Prettyprinter
-int start = 0;
-int end = 2;
-int[][] puzzle = {
+
+
+ int[][] puzzle = {
 new int[] {7, 3, 6, 4, 5, 2, 9, 8, 1},
 new int[] {1, 9, 8, 6, 3, 7, 4, 5, 2},
 new int[] {4, 2, 5, 9, 8, 1, 3, 7, 6},
@@ -90,12 +90,67 @@ new int[] {2, 8, 9, 1, 7, 3, 5, 6, 4},
 new int[] {6, 7, 3, 2, 4, 5, 8, 1, 9},
 new int[] {5, 4, 1, 8, 6, 9, 7, 2, 3},
 };
-
+/*
+void printpuzzle(int[][] puzzle) {
 for (int row = 0 ; row < puzzle.Length ; row++)
 {
-    for (int col = 0 ; col <puzzle[row].Length ; col++)
-    {
-        Console.WriteLine(puzzle[row][col] + " ");
+      Console.Write("row {0}: ", row);
+        for (int col = 0 ; col <puzzle[row].Length ; col++)
+        {
+            Console.Write(puzzle[row][col] + " "); 
+        }
         Console.WriteLine(" ");
     }
 }
+printpuzzle(puzzle);
+/*
+/*
+int[] Array = {1, 2, 3, -4, 5, -6, 7, -8};
+int nega = 0;
+for (int i = 0 ; i < Array.Length ; i++)
+{
+    if(nega > Array[i])
+    {
+    nega = Array[i];
+    }
+}
+Console.WriteLine("størreste negative nummer er  " + nega);
+*/
+/*
+// Exercise 7.9: Daily Differences
+double monday = 21.5;
+double Tuesday = 19.6;
+double wednesday = 22.5;
+double friday = 25.3;
+double Saturday = 21.7;
+double Sunday = 18.9;
+
+double temp(double a, double b)
+{
+    return a + b;
+}
+double result = temp(monday, wednesday);
+Console.Write(result); 
+*/
+/*
+// Exercise 8.8: Factorial function
+int faction(int a)
+{
+    if (a ==1){
+    return 1;
+    }
+    return a * faction(a-1);
+}
+Console.Write(faction(3));
+*/
+// Exercise 8.9: Properties of Circles
+
+int cirkel(int c)
+{
+    if (c ==1){
+    return 1;
+    } 
+    return c * cirkel(c-1);
+
+}
+Console.WriteLine(cirkel(4));
