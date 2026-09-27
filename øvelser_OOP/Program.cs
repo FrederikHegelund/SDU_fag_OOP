@@ -144,7 +144,7 @@ int faction(int a)
 Console.Write(faction(3));
 */
 // Exercise 8.9: Properties of Circles
-
+/*
 int cirkel(int c)
 {
     if (c ==1){
@@ -154,3 +154,26 @@ int cirkel(int c)
 
 }
 Console.WriteLine(cirkel(4));
+*/
+
+// Exercise 9.1: Indexing
+int iterationer = 10;
+int[] array = {1, 2, 3, 4, 5};
+
+//incremet
+for (int i=0 ; i<iterationer ; i++) {
+    try {
+        array[i]++;
+    }
+        catch(IndexOutOfRangeException){
+            continue;
+        }
+}
+//printer
+for (int i=0 ; i<iterationer ; i++) {
+Console.WriteLine(array[i]);
+}
+// iterationer is theown, because it's vaule is bigger then the array therefor it overflows
+// The exceptions is caused by indexofarrayoverflow
+// se try-cathc stmt
+// Dette er ikke den rigtige løsning, da iterationer value er for stor i forhold til index. rigtige løsning er at fix ydre for loop
