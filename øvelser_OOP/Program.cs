@@ -77,8 +77,7 @@ int result = Add(7 + 1, 4);
 Console.WriteLine(result);
 */
 // Exercise 8.3: Sūdoku Prettyprinter
-
-
+/*
  int[][] puzzle = {
 new int[] {7, 3, 6, 4, 5, 2, 9, 8, 1},
 new int[] {1, 9, 8, 6, 3, 7, 4, 5, 2},
@@ -155,7 +154,7 @@ int cirkel(int c)
 }
 Console.WriteLine(cirkel(4));
 */
-
+/*
 // Exercise 9.1: Indexing
 int iterationer = 10;
 int[] array = {1, 2, 3, 4, 5};
@@ -173,7 +172,61 @@ for (int i=0 ; i<iterationer ; i++) {
 for (int i=0 ; i<iterationer ; i++) {
 Console.WriteLine(array[i]);
 }
+*/
 // iterationer is theown, because it's vaule is bigger then the array therefor it overflows
 // The exceptions is caused by indexofarrayoverflow
 // se try-cathc stmt
 // Dette er ikke den rigtige løsning, da iterationer value er for stor i forhold til index. rigtige løsning er at fix ydre for loop
+
+
+//Exercise 9.2: Accounts
+// program crashern for de arrayen er fra 0 til 2. Hvis du putter 3 inden programmet for du en indputOutOfBounce
+
+// 2
+/*
+int[] accounts = {903, 716, 67};
+int GetAccountNumber ()
+{
+Console.WriteLine("Enter an account number: ");
+return Convert.ToInt32(Console.ReadLine());
+}
+
+void PrintAccountState (int accountId)
+{
+Console.WriteLine("Account " + accountId + " contains " + accounts[accountId]);
+}
+while (true) {
+    try{
+    int accountId = GetAccountNumber();
+    PrintAccountState(accountId);
+    }
+    catch(IndexOutOfRangeException){
+        Console.WriteLine("fejl");
+    }
+
+}
+*/
+// 3. c# kan ikke konventere Int til String
+
+int[] accounts = {903, 716, 67};
+int GetAccountNumber ()
+{
+Console.WriteLine("Enter an account number: ");
+return Convert.ToInt32(Console.ReadLine());
+}
+try {
+    return Convert.ToInt32(input);
+}
+catch(FormatException){
+Console.WrtieLine("kun nummer");
+}
+void PrintAccountState (int accountId)
+{
+Console.WriteLine("Account " + accountId + " contains " + accounts[accountId]);
+}
+while (true) {
+int accountId = GetAccountNumber();
+PrintAccountState(accountId);
+}
+*/
+// Exercise 9.3: Average Grade
