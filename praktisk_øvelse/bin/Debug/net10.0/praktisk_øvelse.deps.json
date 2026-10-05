@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "praktisk_øvelse/1.0.0": {
+        "runtime": {
+          "praktisk_øvelse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "praktisk_øvelse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

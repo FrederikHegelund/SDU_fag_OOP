@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\bin\Debug\net10.0\praktisk_øvelse.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\bin\Debug\net10.0\praktisk_øvelse.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\bin\Debug\net10.0\praktisk_øvelse.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\bin\Debug\net10.0\praktisk_øvelse.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\bin\Debug\net10.0\praktisk_øvelse.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\refint\praktisk_øvelse.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\praktisk_øvelse.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\praktisk_øvelse\obj\Debug\net10.0\ref\praktisk_øvelse.dll
