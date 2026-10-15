@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SDU_fag_OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb3a4f0ef8c5680f705ad6d39e8af9661dc43d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb3dfd831777f0614622708633b69a96b192233")]
 [assembly: System.Reflection.AssemblyProductAttribute("SDU_fag_OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SDU_fag_OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

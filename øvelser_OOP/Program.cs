@@ -207,7 +207,7 @@ while (true) {
 }
 */
 // 3. c# kan ikke konventere Int til String
-
+/*
 int[] accounts = {903, 716, 67};
 int GetAccountNumber ()
 {

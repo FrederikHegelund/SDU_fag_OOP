@@ -61,7 +61,7 @@ Console.WriteLine(diff);
 */
 
 // Exercise 12.1: Customers
-/* 
+/*
 class program
 {
 static void Main()

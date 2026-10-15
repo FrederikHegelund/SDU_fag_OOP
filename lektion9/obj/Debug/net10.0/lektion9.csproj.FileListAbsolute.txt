@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\bin\Debug\net10.0\lektion9.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\bin\Debug\net10.0\lektion9.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\bin\Debug\net10.0\lektion9.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\bin\Debug\net10.0\lektion9.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\bin\Debug\net10.0\lektion9.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\refint\lektion9.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\lektion9.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\lektion9\obj\Debug\net10.0\ref\lektion9.dll

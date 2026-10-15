@@ -1,31 +1,39 @@
-public class costumerdatabase
+/*
+class program 
 {
-    public costumer[] Costumer;
-
-    public costumerdatabase()
+    static void Main()
     {
-        costumer = new costumer[10]; 
-    }
-
-    public void addcostumer(costumerdatabase)
+    public class costumerdatabase
     {
-        for(int id = 0 ; id < costumer.Length ; id++)
+        public costumer[] Costumer;
+
+        public costumerdatabase()
         {
-            if(costumer[id] == null)
+            costumer = new costumer[10]; 
+        }
+
+        public void addcostumer(costumerdatabase)
+        {
+            for(int id = 0 ; id < costumer.Length ; id++)
             {
-                costumer[id] = costumer;
-                return;
+                if(costumer[id] == null)
+                {
+                    costumer[id] = costumer;
+                    return;
+                }
             }
         }
-    }
-    public costumer[] getcostumeres()
-    {  
-        return Costumer;
-    }
-    public void namecostumeres()
-    {
-        for(int id = 0 ; id < Costumer.Length ; id++){
-            Console.Write(Costumer[id]);
+        public costumer[] getcostumeres()
+        {  
+            return Costumer;
+        }
+        public void namecostumeres()
+        {
+                for(int id = 0 ; id < Costumer.Length ; id++)
+                {
+                Console.Write(Costumer[id]);
+                }
+        }
     }
 }
-}
+*/
