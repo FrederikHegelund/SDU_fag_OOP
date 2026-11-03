@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\bin\Debug\net10.0\Lektion_10.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\bin\Debug\net10.0\Lektion_10.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\bin\Debug\net10.0\Lektion_10.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\bin\Debug\net10.0\Lektion_10.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\bin\Debug\net10.0\Lektion_10.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\refint\Lektion_10.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\Lektion_10.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\Lektion_10\obj\Debug\net10.0\ref\Lektion_10.dll

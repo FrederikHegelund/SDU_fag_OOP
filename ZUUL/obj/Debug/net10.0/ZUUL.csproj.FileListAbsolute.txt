@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\bin\Debug\net10.0\ZUUL.exe
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\bin\Debug\net10.0\ZUUL.deps.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\bin\Debug\net10.0\ZUUL.runtimeconfig.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\bin\Debug\net10.0\ZUUL.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\bin\Debug\net10.0\ZUUL.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.sourcelink.json
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\refint\ZUUL.dll
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.pdb
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ZUUL.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Projekt\SDU_fag_OOP\ZUUL\obj\Debug\net10.0\ref\ZUUL.dll
