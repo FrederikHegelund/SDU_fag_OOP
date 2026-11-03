@@ -230,3 +230,129 @@ PrintAccountState(accountId);
 }
 */
 // Exercise 9.3: Average Grade
+
+// RECRUSTION
+/*
+class program
+{
+        static void Main()
+        {
+            Console.WriteLine(factri(8)); 
+            if (factri(6) == 720)
+            {
+                Console.WriteLine(factri(6) + " er Nice");
+            }
+        }
+            static int factri(int n)
+            {
+                if (n == 0)
+                {
+                return 1;
+                }
+                    return factri(n-1) * n;
+            }       
+}
+*/
+
+// TRY - CATCH BLOCK
+/*
+class program
+{
+    static void Main()
+    {
+        Console.WriteLine("Bruger må ikke dele med 0");
+        try
+        {
+            int a = 3;
+            int b = 0;
+            Console.WriteLine(a/b);
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("Du må ikke dele med 0");
+        }
+        
+    }
+}
+*/
+//Exercise 14.1: Kittens
+/*
+class Program
+{
+    static void Main()
+    {
+        for (int i = 1; i <= 10; i++)
+        {
+            Kitten k = new Kitten(i);
+        }
+
+        Console.WriteLine("kitten = " + Kitten.count);
+    }
+}
+
+class Kitten
+{
+    public double cuteness;
+
+    public static int count = 0;
+
+    public Kitten(double cuteness)
+    {
+        this.cuteness = cuteness;
+        count++;
+    }
+}
+*/
+// Exercise 22.2: Date
+/*
+class program
+{
+    static void Main()
+    {
+        long[] timer = {10000, 100000, 1000000, 10000000};
+
+        foreach (tid t in timer)
+        {
+            DateTimeOffset dateOffset = DateTimeOffset.FromUnixTimeMilliseconds(timer);
+            DateTime date = dateOffset.DateTime;
+            Console.WriteLine(time);
+        }
+    }
+}
+*/
+// Exercise 22.1: Timing
+/*
+    class Timing
+    {
+        static double Fun(double x, double y)
+        {
+            if (y <= 0)
+            {
+                return x;
+            }
+            else
+            {
+                return  x * Fun(x,y - 1 );
+            }
+        }
+        
+        static void Main()
+        {
+            double x = 1.0000001;
+
+            for (int y = 1 ; y <=32 ; y++)
+            {
+                long start = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+                double result = Fun(x, y);
+                long end = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+                 
+                Console.WriteLine($"Fun({x}, {y}) = {result}  ({end - start} ms)");
+            }
+        }
+    }
+    */
+
+// Exercise 14.5: Encapsulation
+
+
+// 

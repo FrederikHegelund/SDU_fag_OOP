@@ -18,6 +18,7 @@ class program
 */
 
 // exercise 8.7
+/*
 class program
 {
         static double discriminants(double a, double b, double c)
@@ -58,3 +59,4 @@ class program
                 }
         }
 }
+*/
